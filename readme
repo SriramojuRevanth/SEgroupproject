@@ -1,5 +1,5 @@
 
-This project can operate on any OS because it is built on the LAMP stack.
+This project can operate on any OS/windows because it is built on the LAMP stack.
 Install XAMPP and continue to operate the Apachi Webserver and MySql Database.
 Upload the SQL database in the MySql Database. 
 Note: Connection to the DB can be found in ./dbcon.php
