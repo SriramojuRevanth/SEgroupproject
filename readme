@@ -1,1 +1,7 @@
 
+This project can operate on any OS because it is built on the LAMP stack.
+Install XAMPP and continue to operate the Apachi Webserver and MySql Database.
+Upload the SQL database in the MySql Database. 
+Note: Connection to the DB can be found in ./dbcon.php
+Now open the application from this url - http://localhost/lemontree/ and You'll notice the application is active.
+make sure the database up and running. 
