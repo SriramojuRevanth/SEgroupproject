@@ -1,0 +1,19 @@
+Project Description : 
+Application for an online ordering system for food:
+The Internet has succeeded in connecting with people worldwide, making it one of the most powerful interactive tools. Its vast network makes it simple to access your information from various remote sources. There are so many applications for companies nowadays to help their customers to order company products directly online. 
+
+Here we are going to design a website for a fictitious restaurant named “student Union” which allows the customers to see all the products that are available in the restaurant and allows users to order them right through their mobile or laptops or any device that has an internet connection. The webpage needed to be responsive, which meant that it could be viewed on any device. This website will benefit both users and restaurants at the same time. It will provide convenience to the customers and can also avoid long queues for making the order in the restaurant. Users can simply order their favorite food and pay online. 
+
+For the restaurant, this website will increase productivity and save time. The proposed system's cost is almost insignificant when compared to the benefits gained by the restaurant owners. And the restaurant can keep track of repeat clients' requests for future deliveries. 
+
+This application has around three modules that are
+ 1) menu module 
+2) Admin Module 
+3) User Module 
+
+
+Menu Module: This module allows the new user who is interested in looking at the website’s food catalog can browse for their favorite food. They can go through the menu and add the items to their cart and once it reaches the cart, this order is then sent to the admin. 
+
+Admin Module: This is the administration module. The admin is completely responsible for website maintenance and changes required in the menu can only be done by the admin. The administrator receives information on orders placed by users, including username and password, mobile number, e-mail address, items ordered, quantity, and price. The specifics of the menu selections can also be modified by the administration.
+
+User Module: This is the user module where they can see the restaurant menu. It allows the customers to order food by selecting the items from the menu. Users can also enter/update their information account name, mobile number, and delivery address. Additionally, users had the option of changing their login password.
